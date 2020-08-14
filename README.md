@@ -3,7 +3,7 @@ This React app can be used when playing sports, cards, or board games.  It allow
 score counter for each player.  Responsive dynamic information includes the total number of players and points, and provides a stopwatch that keeps track of turn time.  A fun
 and competitive piece to the app is watching the crown icon next to the score leader's name change. 
 
-![GitHub Logo](/img/logoimage.jpg?raw=true)
+<img align="center" src="/img/logoimage.jpg" alt="github logo">
 
 ### This app consists of three components:
 * A header - contains the title and stats, like the total nmber of players on the board
